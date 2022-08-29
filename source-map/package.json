@@ -4,15 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "demo": "cd 1.demo && uglifyjs index.js -o dist.js --source-map url='dist.js.map'"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> ec785ddd1fd992cfd0af9c0d8949abd2955873e5
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "devDependencies": {
     "uglify-js": "^3.17.0"
   },
   "dependencies": {
     "@babel/core": "^7.18.13"
+=======
+  "dependencies": {
+    "source-map": "^0.7.4"
+>>>>>>> ec785ddd1fd992cfd0af9c0d8949abd2955873e5
   }
 }
