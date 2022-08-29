@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "sources": [
+        "index.js"
+    ],
+    "names": [
+        "words",
+        "console",
+        "log"
+    ],
+    "mappings": "AACA,IAAIA,MAAQ,QACZC,QAAQC,IAAIF,KAAK"
+}
