@@ -1,2 +1,2 @@
 import { sum } from './math';
-console.log(sum(10, 20));
+sum(10, 20) && console.log(sum2(10, 20));

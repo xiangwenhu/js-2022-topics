@@ -57,7 +57,7 @@ const sourceMaps = [
 
 const allConfigs = sourceMaps.map(m => (getConfig({
     output: {
-        filename: `${m}/${m}.js`,
+        filename: `${m}/index.js`,
     },
     devtool: m
 })));
